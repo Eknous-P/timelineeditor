@@ -1,0 +1,39 @@
+*{
+    font-family:sans;
+    margin: 0px;
+    padding: 0px;
+}
+
+td{
+    background-color: lightgray;
+    height: 100vh;
+}
+
+#timeline{
+    width: 80vw;
+    vertical-align: top;
+}
+
+#tl-configs{
+    width:20vw;
+}
+
+#line{
+    margin-top:20vh;
+}
+
+#line div{
+    border-width:0px 3px 0px 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-style: solid;
+    border-color: black;
+    margin: 0 5px 0 5px;
+}
+
+#line div hr{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    
+}
